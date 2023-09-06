@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px;
+}
+.title {
+  font-size: 20px;
+}
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.up-left-arrow {
+  width: 20px;
+  height: 20px;
+  background-color: none;
+}
